@@ -14,13 +14,13 @@ We have used these following technologies
 * Blockchain : Ganache & Brownie
 * Testing : Pytest
 
-# [Frontend](https://github.com/Trust-QR/Trust-QR-Frontend/)
-# [Backend](https://github.com/Trust-QR/Trust-QR-Backend/)
+# [Frontend](https://github.com/Abhishekkumar021/TrustQR-Frontend/)
+# [Backend](https://github.com/Abhishekkumar021/TrustQR-Backend)
 
 # Cloning the project
 To clone the project, open a terminal and navigate to the directory where you want to clone the project. Then, run the following command:
 ```bash
-git clone https://github.com/Trust-QR/Trust-QR-Frontend.git
+git clone https://github.com/Abhishekkumar021/TrustQR-Frontend.git
 ```
 
 Once you have cloned the project and installed Node.js, you can install the project dependencies by running the following command:
@@ -40,7 +40,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# Screenshots :
+# Page Screenshots :
 ## [Admin Dashboard](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/Admin_Dashboard.jpeg)
 ## [Dashboard](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/DashBoard.jpeg)
 ## [Add Products](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/Add_Product.jpeg)
